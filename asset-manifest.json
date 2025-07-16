@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/xiling-2.0/static/css/main.efb89367.css",
-    "main.js": "/xiling-2.0/static/js/main.5ee1676a.js",
+    "main.js": "/xiling-2.0/static/js/main.f8f4eaee.js",
     "index.html": "/xiling-2.0/index.html",
     "main.efb89367.css.map": "/xiling-2.0/static/css/main.efb89367.css.map",
-    "main.5ee1676a.js.map": "/xiling-2.0/static/js/main.5ee1676a.js.map"
+    "main.f8f4eaee.js.map": "/xiling-2.0/static/js/main.f8f4eaee.js.map"
   },
   "entrypoints": [
     "static/css/main.efb89367.css",
-    "static/js/main.5ee1676a.js"
+    "static/js/main.f8f4eaee.js"
   ]
 }
